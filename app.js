@@ -3,8 +3,8 @@ var workers, resultArea, numberOne, numberTwo;
 
 function initialize() {
     resultArea = document.querySelector("#result-area");
-    numberOne = document.querySelector("#number1");
-    numberTwo = document.querySelector("#number2");
+    numberOne = document.querySelector("#numberOne");
+    numberTwo = document.querySelector("#numberTwo");
 
     if (window.Worker) {
         workers = new Worker("worker.js");
