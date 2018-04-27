@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>HTML5 Web Workers Calculator</title>
+  <link rel="stylesheet" href="app.css" />
+</head>
+
+<body>
+  <div id="wrapper">
+    <label for="numberOne">Number 1 : </label>
+    <input type="number" name="numberOne" id="numberOne" /> <br /> <br />
+    <label for="numberTwo">Number 2 : </label>
+    <input type="number" name="numberTwo" id="numberTwo" /> <br /> <br />
+    <p id="result-area"></p> <br />
+    <button onclick="doIt('sum')">+</button>
+    <button onclick="doIt('subtract')">-</button>
+    <button onclick="doIt('multiply')">*</button>
+    <button onclick="doIt('division')">/</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
