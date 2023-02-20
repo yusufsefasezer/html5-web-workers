@@ -1,5 +1,5 @@
 # HTML5 Web Workers
-Simple calculator app showing how to use HTML5 Web Workers feature
+Simple calculator app showing how to use HTML5 Web Worker feature
 
 # Demo
 https://www.yusufsezer.com/projects/html5-web-workers/
