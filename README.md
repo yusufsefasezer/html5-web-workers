@@ -1,10 +1,10 @@
-# HTML5 Web Workers Calculator
-A simple HTML5 Web Workers example with Calculator
+# HTML5 Web Workers
+Simple calculator app showing how to use HTML5 Web Workers feature
 
 # Demo
-www.yusufsezer.com/html5-web-workers/
+https://www.yusufsezer.com/projects/html5-web-workers/
 
 # License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
-Created by [Yusuf SEZER](http://www.yusufsezer.com)
+Created by [Yusuf Sezer](https://www.yusufsezer.com)
